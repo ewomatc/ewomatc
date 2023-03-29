@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - :smile: Welcome to my GitHub Profile.
-- :atom: I’m a Software Engineering Intern @ ALX Africa.
+- I am Great Diro, a Backend Engineer and web3 enthusiast.
 - 🌱 I'm currently Learning Backend web development with NodeJS.
