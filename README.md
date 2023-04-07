@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my project NovaHQ<br>🌱 I’m currently learning backend development with nodejs<br>
+🔭 I’m currently working on my project NovaHQ<br>🌱 I’m currently learning backend and API development<br>
 
 
 ## 🌐 Socials:
