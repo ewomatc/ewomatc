@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Backend Developer with a great zeal for continuous learning. <br><br>🌱 I’m currently learning Backend Dvelopment with node and express.js<br>⚡ I'm also exploring the web 3 space and it's potentials.
+I am a Backend Developer with a great zeal for continuous learning. <br><br>🌱 I’m currently sharpening my skills and building my portfolio as a backend developer<br>⚡ I am also learning about the web3 space and blockchain engineering.
 
 
 ## 🌐 Socials:
