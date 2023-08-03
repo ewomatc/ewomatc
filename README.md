@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning Graphql and Typescript<br><br>
+🔭 I’m currently building my portfolio<br>🌱 I’m currently learning Graphql.<br><br>
 
 
 ## 🌐 Socials:
