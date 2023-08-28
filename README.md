@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently building my portfolio<br>🌱 I’m currently learning GraphQL.<br>
+👋🏼 I am a Software Engineer and Web3 enthusiast passionate about creating efficient software that solve real problems.
 
 
 ## 🌐 Socials:
