@@ -1,7 +1,7 @@
 Hi 👋 My name is Great Diro
 ===========================
 
-I am Backend Engineer focused on building efficient systems that solve real problems.
+I am a Backend Engineer focused on building efficient systems that solve real problems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewomatc&label=Profile%20views&color=0e75b6&style=flat" alt="ewomatc" /> </p>
 
