@@ -5,8 +5,6 @@ I am a Backend Engineer focused on building efficient systems that solve real pr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewomatc&label=Profile%20views&color=0e75b6&style=flat" alt="ewomatc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ewomatc" alt="ewomatc" /></a> </p>
-
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [iamgreatdiro@gmail.com](mailto:iamgreatdiro@gmail.com )
@@ -29,8 +27,8 @@ I am a Backend Engineer focused on building efficient systems that solve real pr
 </picture> </a> <a href="https://www.linkedin.com/in/great-diro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/Ewoma " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/ewoma_tc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-[![@ewoma's Holopin board](https://holopin.me/ewomatc)](https://holopin.io/@ewomatc)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ewomatc" alt="ewomatc" /></a> </p>
 
 <b>My GitHub Stats</b>
 
