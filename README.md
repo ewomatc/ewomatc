@@ -1,4 +1,4 @@
-Hi 👋 My name is Great Diro
+Hi 👋 I'm Great Diro
 ===========================
 
 I am a Backend Engineer focused on building efficient systems that solve real problems.
