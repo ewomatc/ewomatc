@@ -1,4 +1,4 @@
-⚡  Water 💦, earth 🌎, fire 🔥, wind 🌪️, code 👨🏽‍💻
+## ⚡  Water 💦, earth 🌎, fire 🔥, wind 🌪️, code 👨🏽‍💻
 
 ### Skills
 
