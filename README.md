@@ -1,16 +1,4 @@
-Hi 👋 I'm Great Diro
-===========================
-
-I am a Backend Engineer focused on building efficient systems that solve real problems.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ewomatc&label=Profile%20views&color=0e75b6&style=flat" alt="ewomatc" /> </p>
-
-
-* 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [iamgreatdiro@gmail.com](mailto:iamgreatdiro@gmail.com )
-* 🧠  I'm learning Frontend Development
-* 🤝  I'm open to collaborating on open source projects 
-* ⚡  Water 💦, earth 🌎, fire 🔥, wind 🌪️, and code 👨🏽‍💻
+⚡  Water 💦, earth 🌎, fire 🔥, wind 🌪️, code 👨🏽‍💻
 
 ### Skills
 
