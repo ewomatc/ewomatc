@@ -1,4 +1,4 @@
-## ⚡  Water 💦, earth 🌎, fire 🔥, wind 🌪️, code 👨🏽‍💻
+## ⚡  Water 💦, earth 🪨, fire 🔥, wind 🌪️, code 👨🏽‍💻
 
 
 <b>My GitHub Stats</b>
