@@ -15,7 +15,7 @@
   Hi, I'm Ewoma.
   <br />
   <br />
-  🧑🏽‍💻 Currently working on my project <a href="https://github.com/ewomatc/Klout-Network">Klout Network</a>.
+  🧑🏽‍💻 I'm Currently working on my project <a href="https://github.com/ewomatc/Klout-Network">Klout Network</a>.
   <br />
   <br />
   🌱 I’m currently learning Golang and NextJs
@@ -55,7 +55,7 @@
   
 <!-- snake graph -->
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <h2>🐍🐍</h2>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ewomatc/ewomatc/blob/output/github-contribution-grid-snake-dark.svg" />
