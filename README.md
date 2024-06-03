@@ -15,7 +15,7 @@
   Hi, I'm Ewoma.
   <br />
   <br />
-  🧑🏽‍💻 I'm Currently working on my project <a href="https://github.com/ewomatc/Klout-Network">Klout Network</a>.
+  🧑🏽‍💻 I'm Currently working on ReactJs Projects.
   <br />
   <br />
   🌱 I’m currently learning NextJs and Golang on the side.
