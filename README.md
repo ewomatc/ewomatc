@@ -18,7 +18,7 @@
   🧑🏽‍💻 I'm Currently working on my project <a href="https://github.com/ewomatc/Klout-Network">Klout Network</a>.
   <br />
   <br />
-  🌱 I’m currently learning Golang and NextJs
+  🌱 I’m currently learning NextJs and Golang on the side.
   <br />
 </p>
 
