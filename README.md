@@ -11,20 +11,23 @@
 
 <br />
 <!-- about me -->
-<p align="center">
-  Hi, I'm Ewoma.
+<div align="center">
+  <h1>Ryōiki Tenkai, Mugen no eikō</h1>
+  <br/>
+<!--   <br/>
+  <br />
+  <p>🧑🏽‍💻 I'm Currently building ReactJs Projects.</p>
   <br />
   <br />
-  🧑🏽‍💻 I'm Currently working on ReactJs Projects.
-  <br />
-  <br />
-  🌱 I’m currently learning NextJs and Golang on the side.
-  <br />
-</p>
+  <p>🌱 I’m currently learning NextJs and Golang on the side.</p>
+  <br /> -->
+ 
+</div>
 
 
 <!-- social handles -->
 <div align="center"> 
+  <h2>👾 My Socials 👾</h2>
   <!-- twitter -->
   <a href="https://twitter.com/0xewoma" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
